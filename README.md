@@ -15,12 +15,12 @@ To write a python program for creating File Transfer using TCP Sockets Links
 
 
 ## OUPUT
-<img width="864" height="404" alt="image" src="https://github.com/user-attachments/assets/5f34bb56-3ce3-4ed9-82cb-b19b0a14b76e" />
+<img width="817" height="322" alt="image" src="https://github.com/user-attachments/assets/1300197d-1da3-474c-976d-c712af33d919" />
 
-<img width="869" height="322" alt="image" src="https://github.com/user-attachments/assets/c80210f5-57e4-4d6c-a677-19f36231231a" />
+<img width="752" height="216" alt="image" src="https://github.com/user-attachments/assets/5addc06d-f2d7-4f27-a0af-498677259520" />
 
 
-<img width="1131" height="418" alt="image" src="https://github.com/user-attachments/assets/98d64eb0-c4fe-4c53-bd5c-6d1b6771d841" />
+<img width="1139" height="472" alt="image" src="https://github.com/user-attachments/assets/149381b8-d83c-424b-ab33-d88981a3bfe5" />
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
